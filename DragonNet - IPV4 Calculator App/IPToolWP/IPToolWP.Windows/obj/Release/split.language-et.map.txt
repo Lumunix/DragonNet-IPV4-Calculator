@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-et"
+"ResourceDimensions"		"language-et"
+
+[Files]
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\obj\Release\split.language-et.pri"			"resources.pri"

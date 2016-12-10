@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-wo-latn"
+"ResourceDimensions"		"language-wo"
+
+[Files]
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\obj\Release\split.language-wo-latn.pri"			"resources.pri"

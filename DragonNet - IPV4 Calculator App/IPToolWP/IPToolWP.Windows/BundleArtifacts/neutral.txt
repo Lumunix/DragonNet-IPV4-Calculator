@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\bin\Release\IPToolWP.Windows_1.1.0.10_Bundle\IPToolWP.Windows_1.1.0.10_AnyCPU.appx
+ResourcePack=C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\bin\Release\IPToolWP.Windows_1.1.0.10_Bundle\IPToolWP.Windows_1.1.0.10_scale-180.appx

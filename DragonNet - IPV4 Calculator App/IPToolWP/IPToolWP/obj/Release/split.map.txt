@@ -1,0 +1,21 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en-us"
+"ResourceDimensions"		"language-en-gb"
+
+[Files]
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\split.pri"			"resources.pri"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\Microsoft.Advertising.Mobile.UI\Web\Ormma.js"			"Microsoft.Advertising.Mobile.UI\Web\Ormma.js"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\Microsoft.Advertising.Mobile.UI\Web\bootstrap.html"			"Microsoft.Advertising.Mobile.UI\Web\bootstrap.html"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf"			"Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\Microsoft.Advertising.Mobile.UI\Microsoft.Advertising.Mobile.UI.xr.xml"			"Microsoft.Advertising.Mobile.UI\Microsoft.Advertising.Mobile.UI.xr.xml"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\IPToolWP.xr.xml"			"IPToolWP.xr.xml"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\Images\Dragon2.png"			"Images\Dragon2.png"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\Assets\StoreLogo.scale-240.png"			"Assets\StoreLogo.scale-240.png"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\Assets\Square71x71Logo.scale-240.png"			"Assets\Square71x71Logo.scale-240.png"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\Assets\Logo.scale-240.png"			"Assets\Logo.scale-240.png"
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\PackageLayout\App.xbf"			"App.xbf"

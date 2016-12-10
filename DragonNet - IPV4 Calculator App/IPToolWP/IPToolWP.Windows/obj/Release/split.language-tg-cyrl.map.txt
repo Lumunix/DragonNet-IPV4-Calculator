@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-tg-cyrl"
+"ResourceDimensions"		"language-tg-cyrl-tj"
+
+[Files]
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\obj\Release\split.language-tg-cyrl.pri"			"resources.pri"

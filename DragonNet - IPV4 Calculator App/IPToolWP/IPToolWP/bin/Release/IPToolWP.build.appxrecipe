@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MECHFRAME</Machine>
+    <WindowsUser>dylan</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b954968b-4177-4f4c-b5db-f0d7cc574aae</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\IPToolWP.exe">
+      <PackagePath>IPToolWP.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP.Shared\Images\Dragon2.png">
+      <PackagePath>Images\Dragon2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\IPToolWP.xr.xml">
+      <PackagePath>IPToolWP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

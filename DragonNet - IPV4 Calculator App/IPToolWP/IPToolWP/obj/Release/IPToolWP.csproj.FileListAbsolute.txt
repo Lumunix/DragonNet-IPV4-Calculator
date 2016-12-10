@@ -1,0 +1,70 @@
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\App.xbf
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\MainPage.xbf
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\IPToolWP.xr.xml
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\IPToolWP.exe
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\IPToolWP.pdb
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\resources.pri
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\AppxManifest.xml
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\IPToolWP.build.appxrecipe
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\Microsoft.Advertising.Mobile.Common.winmd
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\Microsoft.Advertising.Mobile.Display.winmd
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\Microsoft.Advertising.Mobile.Display.xml
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\Microsoft.Advertising.Mobile.UI.winmd
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\bin\Release\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\App.g.i.cs
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\App.g.cs
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\MainPage.g.i.cs
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\MainPage.g.cs
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\App.xaml
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\MainPage.xaml
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\App.xbf
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\MainPage.xbf
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\XamlSaveStateFile.xml
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\IPToolWP.exe
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\IPToolWP.pdb
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\priconfig.xml
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\priconfig.xml.intermediate
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\layout.resfiles
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\layout.resfiles.intermediate
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\resources.resfiles
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\resources.resfiles.intermediate
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\pri.resfiles
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\pri.resfiles.intermediate
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\qualifiers.txt
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\qualifiers.txt.intermediate
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP\obj\Release\ProjectArchitectures.txt
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\App.xbf
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\MainPage.xbf
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\IPToolWP.xr.xml
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\IPToolWP.exe
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\IPToolWP.pdb
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\resources.pri
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\AppxManifest.xml
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\bin\Release\IPToolWP.build.appxrecipe
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\App.g.i.cs
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\App.g.cs
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\MainPage.g.i.cs
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\MainPage.g.cs
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\XamlTypeInfo.g.cs
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\App.xaml
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\App.xbf
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\XamlSaveStateFile.xml
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\MainPage.xaml
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\MainPage.xbf
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\IPToolWP.exe
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\IPToolWP.pdb
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\priconfig.xml
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\priconfig.xml.intermediate
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\layout.resfiles
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\layout.resfiles.intermediate
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\resources.resfiles
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\resources.resfiles.intermediate
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\pri.resfiles
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\pri.resfiles.intermediate
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\qualifiers.txt
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\qualifiers.txt.intermediate
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dylan\Documents\App Development\DragonNet - IPV4 Calculator App\IPToolWP\IPToolWP\obj\Release\ProjectArchitectures.txt

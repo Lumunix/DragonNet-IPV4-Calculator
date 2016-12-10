@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>YELLOWDRAGON</Machine>
+    <WindowsUser>Dylan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>35601YellowDragon.DragonNet-IPV4Calculator</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>ECCBD9F81D45F6B71C75F83C730DA06E4D28612EC7C55C6334D514B4FDC9CD04</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>35601YellowDragon.DragonNet-IPV4Calculator_1.1.0.9_neutral__e1hxcvvsx92r8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>35601YellowDragon.DragonNet-IPV4Calculator_e1hxcvvsx92r8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>35601YellowDragon.DragonNet-IPV4Calculator</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=45036692-F926-440F-8FD3-D258E2B8D5BC</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.9</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T22:07:30.556</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\bin\Release\IPToolWP.Windows.exe">
+      <PackagePath>IPToolWP.Windows.exe</PackagePath>
+      <Modified>2014-12-30T14:42:26.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-09-13T15:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-09-13T15:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2013-09-13T15:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2013-09-13T15:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-09-13T15:43:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-09-13T15:46:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T14:28:42.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T12:10:27.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T14:27:10.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T12:13:01.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T14:30:34.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T14:13:24.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T14:27:35.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T12:17:29.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T14:29:05.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T12:19:53.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T14:26:44.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T12:12:30.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T14:28:19.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-30T12:11:14.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Shared\Images\Dragon2.png">
+      <PackagePath>Images\Dragon2.png</PackagePath>
+      <Modified>2014-12-29T08:48:33.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-12-30T13:46:14.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-12-30T13:46:14.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\bin\Release\IPToolWP.Windows.xr.xml">
+      <PackagePath>IPToolWP.Windows.xr.xml</PackagePath>
+      <Modified>2014-12-30T13:46:14.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-30T22:07:29.122</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

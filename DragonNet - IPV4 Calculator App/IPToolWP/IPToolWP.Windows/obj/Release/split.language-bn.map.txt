@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-bn"
+"ResourceDimensions"		"language-bn-in"
+"ResourceDimensions"		"language-bn-bd"
+
+[Files]
+"C:\Users\Dylan\documents\visual studio 2013\Projects\IPToolWP\IPToolWP.Windows\obj\Release\split.language-bn.pri"			"resources.pri"
